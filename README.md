@@ -1,7 +1,7 @@
-###Sample work with GUI by using scala.js 
-some kind of drawing application "Skatcher"
+### Sample work with GUI by using scala.js 
+some kind of drawing application "Skretcher"
 
-##features
+## features
 - variating draw line weight by speed 
 - interpolation of second order (y=ax^2+bx+c) 
 
